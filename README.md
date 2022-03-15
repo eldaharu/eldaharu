@@ -6,10 +6,12 @@ Hello, eu sou a Haru e estou começando agora nesse novo mundo!!!
 - ❤️ Sou apaixonada por programação e espero expandir muito meu conhecimento...
 
 <div align="center">
-  
+    <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
+       src="https://share-cdn.picrew.me/shareImg/org/202203/338224_KUxJGwXi.png">
   <a href="https://github.com/eldaharu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eldaharu&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldaharu&layout=compact&langs_count=7&theme=buefy"/>
+    
  </div>
   
 <div style="display: inline_block"><br>
@@ -18,8 +20,7 @@ Hello, eu sou a Haru e estou começando agora nesse novo mundo!!!
   <img align="center" alt="elda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="elda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="elda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-     <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
-       src="https://share-cdn.picrew.me/shareImg/org/202203/338224_KUxJGwXi.png">
+    
 </div>
  
  ##
